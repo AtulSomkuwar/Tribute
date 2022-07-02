@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    background:silver;
+}
+.name{
+     margin:10px;
+     width: 1200px;
+     height: 60px;
+     background: rgb(156, 155, 155); 
+    
+}
+.tribute{
+    color: black;
+    align-items: center;
+    padding-left:200px ;
+    font-family: Arial;
+    font-size: 50px;
+    margin-top: 100px;
+    font-style: italic; 
+}
+.tribute:hover{
+    color: #3da3a3;
+}
+.par{
+    width: 800px;
+    height: 20px;
+    align-items: center;
+    font-size: 35px;
+    padding-left: 70px;
+    margin-top: 20px;
+    font-style: italic;
+
+   
+    font-family: sans-serif;
+}
+.par:hover{
+    color: #3da3a3;
+}
+.head{
+   color: white;
+  width: 700px;
+  height: 50px;
+  padding-top: 150px;
+   padding-left: 100px;
+   font-size:25px;
+   font-family: 'Times New Roman';
+   font-style: italic;
+
+}
+
+.head:hover{
+    color:#ea6d70;
+}
+
+
+.menu{
+    width: 300px;
+    height: 90px;
+    float:right;
+}
+ul{
+    float: left;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+   
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+    font-size: 30px;
+   
+   
+}
+ul li a:hover{
+    color: #ea6d70;
+}
+.content{
+    width: 1500px;
+    font-style: italic;
+    font-weight: 10px;
+
+}
+.par1{
+    font-size: 20px;
+    padding-left: 500px;
+    margin-top: 200px;
+}
+.image1{
+    border: silver;
+    padding-top: 30px;
+    margin-top: 20px;
+    margin: 20px;
+}
+.biography{
+    margin-top: -700px;
+  padding-top: -200px;
+    padding-left: 800px;
+    height: 10px;
+    font-size: 50px;
+}
+.biography:hover{
+    color: #3da3a3;
+}
+
+.image{
+    margin-left: 550px;
+   margin-top: -350px;
+
+}
+ .video{
+    margin: 0;
+    padding: 0;
+   margin-top: -305px;
+   padding-left: 30px;
+
+ }
+ .Movies{
+    margin-top: 400px;
+    margin-left: 700px;
+    font-style: italic;
+    font-size: 50px;
+  
+   
+ }
+ .Movies:hover{
+color:#3da3a3 ;
+ }
+ .dhoni{
+    margin-left: 20px;
+    font-size: 20px;
+    margin-top:50px;
+    font-style: italic;
+ }
+ .kai{
+    margin-left: 330px;
+   margin-top: -394px;
+   font-size: 20px;
+   font-style: italic;
+ }
+ .chi{
+    margin-left: 640px;
+    margin-top: -395px;
+    font-size: 20px;
+    font-style: italic;
+ }
+ .pk{
+    margin-left: 1150px;
+    margin-top: -400px;
+    font-size: 20px;
+    font-style: italic;
+ }
