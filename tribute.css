@@ -13,6 +13,7 @@ header{
      height: auto;
      background: rgb(162, 160, 160); 
      background-size: cover;
+     margin:auto;
     
 }
 .tribute {
@@ -37,7 +38,7 @@ header{
     margin-top: 20px;
     font-style: italic;
 
-   
+    
     font-family: sans-serif;
 }
 .par:hover{
@@ -64,8 +65,8 @@ header{
    
 }
 .navlist{
-    width:70%;
-   
+    width:70px;
+   padding-top:300px;
     display: grid;
     align-items: center; 
 }
@@ -101,7 +102,7 @@ ul li a:hover{
 }
 .image{
     margin-left: 550px;
-    margin-top: -320px;
+    margin-top: -340px;
 }
 #bio{
     justify-content: center;
@@ -111,7 +112,7 @@ ul li a:hover{
 
 }
 .image1{
-    padding: 20px;  
+    padding: 10px;  
    
 }
 .content{
@@ -128,9 +129,10 @@ ul li a:hover{
 }
 .rightnav{
     padding: 20px;
-    justify-content: right;
-   align-items: right;
+    justify-content: center;
+   align-items: center;
   display: flex;
+    margin-left:1100px;
 }
 #search{
  
@@ -161,19 +163,20 @@ ul li a:hover{
      align-items:center;
      padding-left: 400px;
      font-size: 20px;
-     margin-right: 20px; 
+     margin-left: 5px; 
      font-style: italic;
     }
     .btn1{
         padding: 20px;
       
-       margin-left: 1100px;
+       margin-right:100px;
        background-color: #3da3a3;
        color: white;
        font-weight: bold;
        font-size: 20pxs;
        border-color: #3da3a3 ;
-       margin-top: -40px;
+       margin-top: -20px;
+        
 
     }
     .btn1:hover{
@@ -192,13 +195,15 @@ ul li a:hover{
     justify-content: center;
     align-items: center;
     width: 100%;
+     flex-direction:column;
  }
  .Movies{
-    margin-top: 50px;
-    margin-left: 550px;
+    
+  
     font-style: italic;
     font-size: 50px;
     padding:50px;
+      text-align:center; 
     justify-content: center;
  }
  .poster{
@@ -283,3 +288,26 @@ ul li a:hover{
 .foot:hover{
 color:#3da3a3 ;
 }
+
+@media screen and (max-width:400px){
+    .navlist{
+        flex-direction:row;
+      }
+      .rightnav{
+        text-align: center;  
+      }
+       #search{
+         width:100%;
+     }
+
+
+
+}
+
+
+@media only screen and (max-width: 500px) {
+    .responsive {
+      width: 100%;
+    }
+  }
+
