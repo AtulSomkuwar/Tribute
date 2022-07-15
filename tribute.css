@@ -169,7 +169,7 @@ ul li a:hover{
     }
     .btn1{
         padding: 20px;
-      
+        float:right;
        margin-right:100px;
        background-color: #3da3a3;
        color: white;
