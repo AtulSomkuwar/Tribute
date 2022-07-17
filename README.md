@@ -1,7 +1,7 @@
 # Tribute To Sushant Singh Rajpoot
 I have created a tribute page in the memory of late Sushant Singh Rajpoot
 
-I tried some unique things in my project like a video from ms dhoni that video can touch our heart for sure
+I tried some unique things in my project like i uploaded a video from ms dhoni movie that video can touch our heart for sure
 
 Then i have mentioned about his past and his all movies in which he tried to entertain us by his acting skills that all mentioned in biography
 
