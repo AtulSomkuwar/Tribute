@@ -314,7 +314,7 @@ color:#3da3a3 ;
       
         align-items: center;
         justify-content: center;
-         margin-top: -100px;
+         margin-top: -20px;
     }
     .navlist{
         display: grid;
@@ -336,7 +336,7 @@ color:#3da3a3 ;
     }
     .video{
       width: auto;
-       margin: auto;
+      
        align-self: center;
       align-items: center;
       justify-content: center;
