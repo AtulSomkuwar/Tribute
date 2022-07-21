@@ -204,6 +204,7 @@ ul li a:hover{
     font-style: italic;
     font-size: 50px;
     padding:50px;
+     margin-top:20px;
       text-align:center; 
     justify-content: center;
  }
@@ -314,7 +315,7 @@ color:#3da3a3 ;
       
         align-items: center;
         justify-content: center;
-         margin-top: -250px;
+/*          margin-top: -250px; */
     }
     .navlist{
         display: grid;
