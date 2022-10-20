@@ -695,3 +695,1595 @@ color:#3da3a3 ;
 
 }
 
+
+
+@media screen and (max-width:1300px){
+   *{
+      margin: 0;
+      padding: 0;
+   }
+    .page1{
+        width: 90%;
+        justify-content: center;
+    }
+    .name{
+        width: 100%;
+        margin: auto;
+       margin-left: -50px;
+    }
+    .tribute{
+       
+        text-align: center;
+        justify-content:center;
+    }
+    .par{
+    
+        text-align:center;
+        justify-content: center;
+    }
+    .menu{
+      
+        align-items: center;
+        justify-content: center;
+/*          margin-top: -250px; */
+    }
+    .navlist{
+        display: grid;
+        margin: auto;
+     
+        align-items: center;
+        justify-content: center;
+      }
+   
+    .image{
+       align-items:left;
+        justify-content: left; 
+       float: left;
+       margin-top: 20px;
+       margin-left: 40px;
+       margin-bottom: 20px;
+       
+        
+    }
+    .video{
+      width: auto;
+      
+       align-self: center;
+      align-items: center;
+      justify-content: center;
+      margin-left: -30px;
+     
+
+    }
+#bio{
+    width: 95%;
+    justify-content: center;
+}
+.image1{
+   
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+     padding-left: 80px;
+     padding-top: 10px;
+}
+
+   .biography{
+    text-align: left;
+    justify-content: left;
+    padding-top: 600px;
+    padding-left: 120px;
+  
+   }
+    
+      .rightnav{
+      
+       align-items: left; 
+       justify-content: left;
+       margin-left: 90px;
+      }
+      .par1{
+        width: 450px;
+        align-items: center;
+        justify-content:center;
+    
+       margin-left: -370px;
+        margin-top: 10px;
+  
+      }
+      .btn1{
+      margin-top: 20px;
+
+        align-items: center;
+        justify-content:center;
+      }
+
+       #search{
+         width:50%;
+         float: left;
+         margin: auto;
+         align-items: center;
+         justify-content: center;
+        
+        
+     }
+
+#film{
+    width: 95%;
+    justify-content: center;
+}
+.Movies{
+    text-align: center;
+    justify-content: center;
+
+}
+.poster{
+    display:grid;
+    flex-direction:column;
+    align-items: center;
+    justify-content:center;
+   
+}
+.dhoni{
+    margin: auto;
+    
+    justify-content: space-between;
+}
+.btn2{
+    align-items: center;
+    justify-content:center;
+   margin-left: 50px;
+}
+.kai{
+    align-items: center;
+   padding-top: 20px;
+    justify-content: space-between;
+    margin: auto;
+}
+.btn3{
+    align-items: center;
+    justify-content:center;
+   margin-left: 50px;
+}
+.chi{
+    margin: auto;
+    padding-top: 20px;
+    justify-content: space-between;
+}
+.btn4{
+    align-items: center;
+    justify-content:center;
+   margin-left: 120px;
+}
+.pk{
+    margin: auto;
+    padding-top: 20px;
+    justify-content: space-between;
+}
+.btn5{
+    align-items: center;
+    justify-content:center;
+   margin-left: 50px;
+}
+}
+
+@media only screen and (max-width: 850px) {
+   header{
+   width: 100%;
+    display: grid;
+    flex-direction: column;
+  
+   }
+ .name{
+     text-align: center;
+     justify-content: center;
+     align-items: center;
+    
+ }
+  .tribute {
+    font-size: 40px;
+
+    margin-top: 50px;
+ }
+
+ .par{
+margin-left: -50px;
+ }
+ 
+ header .head {
+  margin-left: -50px;
+   text-align: center;
+   justify-content: center;
+ }
+ .menu{
+    margin-left: -50px;
+ }
+ .menu .navlist{
+    margin-left: -50px;
+ }
+ 
+ .menu ul{
+    margin-top: 300px;  
+ }
+ ul li a{
+     
+ }
+ .image{
+    align-items: center;
+    justify-content: center;
+    margin-top: 600px;
+    margin-left: 270px;
+ }
+ 
+ .image img{
+   width: 280px;
+   height: 500px;
+   align-items: center;
+   justify-content: center;
+ }
+ .video video{
+    width: 450px;
+    height: 300px;
+    margin-left: 210px;
+    margin-top: 10px;
+ }
+ 
+ 
+ #bio{
+   width:85%;
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+   /* display: grid;
+   flex-direction: column; */
+ 
+ }
+ .image1{
+   margin-top: 950px;
+   margin-left: -30px;
+
+ }
+ .image1 img{
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 600px;
+ }
+ .content{
+   text-align: center;
+   margin-left: 120px;
+ }
+ .biography{
+    margin-left: 30px;
+ }
+ .rightnav{
+    margin-left: 30px;
+ }
+ #search{
+    margin-left: 80px;
+ 
+ }
+ .btn{
+    margin-left: 100px;
+ }
+ 
+ .par1{
+    width: 400px;
+    margin-left: -330px;
+     }
+    .btn1 {
+        margin-left:-50px;   
+     }
+    
+  .film{
+     
+     width: 100%;
+     height: 100vh;
+      flex-direction:column;
+      display:grid;
+  }
+  .Movies{
+     
+     font-style: italic;
+     font-size: 50px;
+     padding:50px;
+      margin-top:60px;
+      margin-left: -50px;
+     
+  }
+  .poster{
+     display:grid;
+     flex-direction: column;
+     padding: 10px;
+     justify-content: space-between;
+   
+    text-align: center;
+   margin-left: 170px;
+     /* margin-top: 20px; */
+ 
+  }
+  
+  .dhoni{
+    margin-left: 70px;
+     font-size: 20px;
+     font-style: italic;
+  }
+  .btn2{
+       padding: 15px;
+       background-color: rgb(172 13 46) ;
+       color: white;
+       font-weight: bold;
+       font-size: 15px;
+       border-color: rgb(172 13 46) ;
+       margin-top: 20px;
+       border-radius: 30px;
+  }
+ 
+  .kai{
+   margin-left: 70px;
+    font-size: 20px;
+    font-style: italic;
+   
+  }
+  .btn3{
+     padding: 15px;
+     background-color: rgb(172 13 46) ;
+     color: white;
+     font-weight: bold;
+     font-size: 15px;
+     margin-top: 20px;
+     border-color: rgb(172 13 46) ;
+     border-radius: 30px;
+ }
+  .chi{
+   
+     margin-left: 50px;
+     font-size: 20px;
+     font-style: italic;
+  }
+  .chi img{
+     width: 300px;
+     height:250px;
+  }
+  .btn4{
+     padding: 15px;
+     background-color: rgb(172 13 46) ;
+     color: white;
+     font-weight: bold;
+     font-size: 15px;
+     margin-top: 20px;
+     margin-left: -3px;
+     border-color: rgb(172 13 46) ;
+     border-radius: 30px;
+ }
+  .pk{
+    margin-left: 70px;
+     font-size: 20px;
+     font-style: italic;
+     
+  }
+  .btn5{
+     padding: 15px;
+     background-color: rgb(172 13 46) ;
+     color: white;
+     font-weight: bold;
+     font-size: 15px;
+     margin-top: 20px;
+     border-color: rgb(172 13 46) ;
+     border-radius: 30px;
+ }
+  .foot{
+     font-size:25px;
+     font-style:italic;
+    margin-left: 300px;
+     color:black;
+    
+    margin-left: 0px;
+    padding: 30px;
+    
+ }
+ .foot:hover{
+ color:#3da3a3 ;
+ }
+ .foot h1{
+    width: 400px;
+    margin-left: 150px;
+   padding-bottom: 20px;
+    position: absolute;
+    /* margin-bottom: 20px; */
+ }
+
+}
+@media only screen and (max-width: 750px) {
+    header{
+        width: 100%;
+         display: grid;
+         flex-direction: column;
+       
+        }
+      .name{
+          text-align: center;
+          justify-content: center;
+          align-items: center;
+         
+      }
+       .tribute {
+         font-size: 40px;
+     
+         margin-top: 50px;
+      }
+     
+      .par{
+     margin-left: -50px;
+      }
+      
+      header .head {
+       margin-left: -50px;
+        text-align: center;
+        justify-content: center;
+      }
+      .menu{
+         margin-left: -50px;
+      }
+      .menu .navlist{
+         margin-left: -20px;
+      }
+      
+      .menu ul{
+         margin-top: 300px;  
+      }
+      ul li a{
+          
+      }
+      .image{
+         align-items: center;
+         justify-content: center;
+         margin-top: 600px;
+         margin-left: 220px;
+      }
+      
+      .image img{
+        width: 280px;
+        height: 500px;
+        align-items: center;
+        justify-content: center;
+      }
+      .video video{
+         width: 450px;
+         height: 300px;
+         margin-left: 165px;
+         margin-top: 10px;
+      }
+      
+      
+      #bio{
+        width:85%;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        /* display: grid;
+        flex-direction: column; */
+      
+      }
+      .image1{
+        margin-top: 950px;
+        margin-left: 20px;
+     
+      }
+      .image1 img{
+         align-items: center;
+         justify-content: center;
+         width: 300px;
+         height: 600px;
+      }
+      .content{
+        text-align: center;
+        margin-left: 120px;
+      }
+      .biography{
+         margin-left: 10px;
+      }
+      .rightnav{
+         margin-left: 10px;
+      }
+      #search{
+         margin-left: 80px;
+      
+      }
+      .btn{
+         margin-left: 100px;
+      }
+      
+      .par1{
+         width: 400px;
+         margin-left: -350px;
+          }
+         .btn1 {
+             margin-left:-50px;   
+          }
+         
+       .film{
+          
+          width: 100%;
+          height: 100vh;
+           flex-direction:column;
+           display:grid;
+       }
+       .Movies{
+          
+          font-style: italic;
+          font-size: 50px;
+          padding:50px;
+           margin-top:60px;
+           margin-left: -50px;
+          
+       }
+       .poster{
+          display:grid;
+          flex-direction: column;
+          padding: 10px;
+          justify-content: space-between;
+        
+         text-align: center;
+        margin-left: 170px;
+          /* margin-top: 20px; */
+      
+       }
+       
+       .dhoni{
+         margin-left: 70px;
+          font-size: 20px;
+          font-style: italic;
+       }
+       .btn2{
+            padding: 15px;
+            background-color: rgb(172 13 46) ;
+            color: white;
+            font-weight: bold;
+            font-size: 15px;
+            border-color: rgb(172 13 46) ;
+            margin-top: 20px;
+            border-radius: 30px;
+       }
+      
+       .kai{
+        margin-left: 70px;
+         font-size: 20px;
+         font-style: italic;
+        
+       }
+       .btn3{
+          padding: 15px;
+          background-color: rgb(172 13 46) ;
+          color: white;
+          font-weight: bold;
+          font-size: 15px;
+          margin-top: 20px;
+          border-color: rgb(172 13 46) ;
+          border-radius: 30px;
+      }
+       .chi{
+        
+          margin-left: 50px;
+          font-size: 20px;
+          font-style: italic;
+       }
+       .chi img{
+          width: 300px;
+          height:250px;
+       }
+       .btn4{
+          padding: 15px;
+          background-color: rgb(172 13 46) ;
+          color: white;
+          font-weight: bold;
+          font-size: 15px;
+          margin-top: 20px;
+          margin-left: -3px;
+          border-color: rgb(172 13 46) ;
+          border-radius: 30px;
+      }
+       .pk{
+         margin-left: 70px;
+          font-size: 20px;
+          font-style: italic;
+          
+       }
+       .btn5{
+          padding: 15px;
+          background-color: rgb(172 13 46) ;
+          color: white;
+          font-weight: bold;
+          font-size: 15px;
+          margin-top: 20px;
+          border-color: rgb(172 13 46) ;
+          border-radius: 30px;
+      }
+       .foot{
+          font-size:25px;
+          font-style:italic;
+         margin-left: 300px;
+          color:black;
+         
+         margin-left: 0px;
+         padding: 30px;
+         
+      }
+      .foot:hover{
+      color:#3da3a3 ;
+      }
+      .foot h1{
+         width: 400px;
+         margin-left: 150px;
+        padding-bottom: 20px;
+         position: absolute;
+         /* margin-bottom: 20px; */
+      }
+     
+     }
+
+
+
+@media only screen and (max-width: 650px) {
+    header{
+    width: 100%;
+     display: grid;
+     flex-direction: column;
+   
+    }
+  .name{
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+     
+  }
+   .tribute {
+     font-size: 35px;
+ 
+     margin-top: 50px;
+  }
+ 
+  .name .par{
+    font-size: 38px;
+    margin-left: -50px;
+  }
+  
+  header .head {
+   margin-left: -50px;
+    text-align: center;
+    justify-content: center;
+  }
+  .menu{
+     margin-left: -50px;
+  }
+  .menu .navlist{
+    margin-left: 30px;
+    min-height: 50px;
+  }
+  
+  .menu ul{
+     margin-top: 300px; 
+     min-height: 50px; 
+  }
+  ul li{
+  padding: 23px;
+  font-size: 20px;
+  }
+  ul li a{
+      min-height: 50px;
+      font-size: 30px;
+  }
+  .image{
+     align-items: center;
+     justify-content: center;
+     margin-top: 600px;
+     margin-left: 170px;
+  }
+  
+  .image img{
+    width: 280px;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+  }
+  .video video{
+     width: 400px;
+     height: 270px;
+     margin-left: 140px;
+     margin-top: 10px;
+  }
+  
+  
+  #bio{
+    width:85%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    /* display: grid;
+    flex-direction: column; */
+  
+  }
+  .image1{
+    margin-top: 950px;
+    margin-left: -30px;
+ 
+  }
+  .image1 img{
+     align-items: center;
+     justify-content: center;
+     width: 280px;
+     height: 560px;
+  }
+  .content{
+    text-align: center;
+    margin-left: 120px;
+  }
+  .biography{
+    font-size: 35px;
+     margin-left: -27px;
+  }
+  .rightnav{
+     margin-left: -50px;
+  }
+  #search{
+    height: 12px;
+     margin-left: 80px;
+  
+  }
+  .btn{
+    height:12px;
+     margin-left: 100px;
+  }
+  
+  .par1{
+     width: 400px;
+     margin-left: -400px;
+      }
+     .btn1 {
+         margin-left:-50px;   
+      }
+     
+   .film{
+      
+      width: 100%;
+      height: 100vh;
+       flex-direction:column;
+       display:grid;
+   }
+   .Movies{
+      
+      font-style: italic;
+      font-size: 40px;
+      padding:50px;
+       margin-top:60px;
+       margin-left: -50px;
+      
+   }
+   .poster{
+      display:grid;
+      flex-direction: column;
+      padding: 10px;
+      justify-content: space-between;
+    
+     text-align: center;
+    margin-left: 100px;
+      /* margin-top: 20px; */
+  
+   }
+   
+   .dhoni{
+     margin-left: 70px;
+      font-size: 20px;
+      font-style: italic;
+   }
+   .btn2{
+        padding: 15px;
+        background-color: rgb(172 13 46) ;
+        color: white;
+        font-weight: bold;
+        font-size: 15px;
+        border-color: rgb(172 13 46) ;
+        margin-top: 20px;
+        border-radius: 30px;
+   }
+  
+   .kai{
+    margin-left: 70px;
+     font-size: 20px;
+     font-style: italic;
+    
+   }
+   .btn3{
+      padding: 15px;
+      background-color: rgb(172 13 46) ;
+      color: white;
+      font-weight: bold;
+      font-size: 15px;
+      margin-top: 20px;
+      border-color: rgb(172 13 46) ;
+      border-radius: 30px;
+  }
+   .chi{
+    
+      margin-left: 50px;
+      font-size: 20px;
+      font-style: italic;
+   }
+   .chi img{
+      width: 300px;
+      height:250px;
+   }
+   .btn4{
+      padding: 15px;
+      background-color: rgb(172 13 46) ;
+      color: white;
+      font-weight: bold;
+      font-size: 15px;
+      margin-top: 20px;
+      margin-left: -3px;
+      border-color: rgb(172 13 46) ;
+      border-radius: 30px;
+  }
+   .pk{
+     margin-left: 70px;
+      font-size: 20px;
+      font-style: italic;
+      
+   }
+   .btn5{
+      padding: 15px;
+      background-color: rgb(172 13 46) ;
+      color: white;
+      font-weight: bold;
+      font-size: 15px;
+      margin-top: 20px;
+      border-color: rgb(172 13 46) ;
+      border-radius: 30px;
+  }
+   .foot{
+      font-size:25px;
+      font-style:italic;
+     margin-left: 300px;
+      color:black;
+     
+     margin-left: 0px;
+     padding: 30px;
+     
+  }
+  .foot:hover{
+  color:#3da3a3 ;
+  }
+  .foot h1{
+     width: 400px;
+     margin-left: 80px;
+    padding-bottom: 20px;
+     position: absolute;
+     /* margin-bottom: 20px; */
+  }
+ 
+ }
+
+ @media only screen and (max-width: 550px) {
+    header{
+    width: 100%;
+     display: grid;
+     flex-direction: column;
+   
+    }
+  .name{
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+     
+  }
+   .tribute {
+     font-size: 35px;
+ 
+     margin-top: 50px;
+  }
+ 
+  .name .par{
+    font-size: 35px;
+    margin-left: -30px;
+  }
+  
+  header .head {
+   margin-left: -30px;
+    text-align: center;
+    justify-content: center;
+  }
+  .menu{
+     margin-left: -30px;
+  }
+  .menu .navlist{
+    margin-left: 80px;
+    min-height: 50px;
+  }
+  
+  .menu ul{
+     margin-top: 300px; 
+     min-height: 50px; 
+  }
+  ul li{
+  padding: 23px;
+  font-size: 20px;
+  }
+  ul li a{
+      min-height: 50px;
+      font-size: 30px;
+  }
+  .image{
+     align-items: center;
+     justify-content: center;
+     margin-top: 600px;
+     margin-left: 130px;
+  }
+  
+  .image img{
+    width: 280px;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+  }
+  .video video{
+     width: 400px;
+     height: 270px;
+     margin-left: 100px;
+     margin-top: 10px;
+  }
+  
+  
+  #bio{
+    width:85%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    /* display: grid;
+    flex-direction: column; */
+  
+  }
+  .image1{
+    margin-top: 950px;
+    margin-left: 10px;
+ 
+  }
+  .image1 img{
+     align-items: center;
+     justify-content: center;
+     width: 280px;
+     height: 560px;
+  }
+  .content{
+    text-align: center;
+    margin-left: 120px;
+  }
+  .biography{
+    font-size: 35px;
+     margin-left: -27px;
+  }
+  .rightnav{
+     margin-left: -50px;
+  }
+  #search{
+    height: 12px;
+     margin-left: 50px;
+  
+  }
+  .btn{
+    height:12px;
+     margin-left: 100px;
+  }
+  
+  .par1{
+     width: 400px;
+     margin-left: -450px;
+      }
+     .btn1 {
+         margin-left:-50px;   
+      }
+     
+   .film{
+      
+      width: 100%;
+      height: 100vh;
+       flex-direction:column;
+       display:grid;
+   }
+   .Movies{
+      
+      font-style: italic;
+      font-size: 40px;
+      padding:50px;
+       margin-top:60px;
+       margin-left: -50px;
+      
+   }
+   .poster{
+      display:grid;
+      flex-direction: column;
+      padding: 10px;
+      justify-content: space-between;
+    
+     text-align: center;
+    margin-left: 60px;
+      /* margin-top: 20px; */
+  
+   }
+   
+   .dhoni{
+     margin-left: 70px;
+      font-size: 20px;
+      font-style: italic;
+   }
+   .btn2{
+        padding: 15px;
+        background-color: rgb(172 13 46) ;
+        color: white;
+        font-weight: bold;
+        font-size: 15px;
+        border-color: rgb(172 13 46) ;
+        margin-top: 20px;
+        border-radius: 30px;
+   }
+  
+   .kai{
+    margin-left: 70px;
+     font-size: 20px;
+     font-style: italic;
+    
+   }
+   .btn3{
+      padding: 15px;
+      background-color: rgb(172 13 46) ;
+      color: white;
+      font-weight: bold;
+      font-size: 15px;
+      margin-top: 20px;
+      border-color: rgb(172 13 46) ;
+      border-radius: 30px;
+  }
+   .chi{
+    
+      margin-left: 50px;
+      font-size: 20px;
+      font-style: italic;
+   }
+   .chi img{
+      width: 300px;
+      height:250px;
+   }
+   .btn4{
+      padding: 15px;
+      background-color: rgb(172 13 46) ;
+      color: white;
+      font-weight: bold;
+      font-size: 15px;
+      margin-top: 20px;
+      margin-left: -3px;
+      border-color: rgb(172 13 46) ;
+      border-radius: 30px;
+  }
+   .pk{
+     margin-left: 70px;
+      font-size: 20px;
+      font-style: italic;
+      
+   }
+   .btn5{
+      padding: 15px;
+      background-color: rgb(172 13 46) ;
+      color: white;
+      font-weight: bold;
+      font-size: 15px;
+      margin-top: 20px;
+      border-color: rgb(172 13 46) ;
+      border-radius: 30px;
+  }
+   .foot{
+      font-size:25px;
+      font-style:italic;
+     margin-left: 300px;
+      color:black;
+     
+     margin-left: 0px;
+     padding: 30px;
+     
+  }
+  .foot:hover{
+  color:#3da3a3 ;
+  }
+  .foot h1{
+     width: 400px;
+     margin-left: 50px;
+    padding-bottom: 20px;
+     position: absolute;
+     /* margin-bottom: 20px; */
+  }
+ 
+ }
+ 
+  
+
+
+
+
+
+
+
+ @media only screen and (max-width: 450px) {
+    header{
+    width: 100%;
+     display: grid;
+     flex-direction: column;
+   
+    }
+  .name{
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+     
+  }
+   .tribute {
+     font-size: 30px;
+ 
+     margin-top: 50px;
+  }
+ 
+  .name .par{
+    font-size: 32px;
+    margin-left: -20px;
+  }
+  
+  header .head {
+   margin-left: -20px;
+    text-align: center;
+    justify-content: center;
+  }
+  .menu{
+     margin-left: -20px;
+  }
+  .menu .navlist{
+    margin-left: 150px;
+    min-height: 50px;
+  }
+  
+  .menu ul{
+     margin-top: 300px; 
+     min-height: 50px; 
+  }
+  ul li{
+  padding: 23px;
+  font-size: 20px;
+  }
+  ul li a{
+      min-height: 50px;
+      font-size: 27px;
+  }
+  .image{
+     align-items: center;
+     justify-content: center;
+     margin-top: 550px;
+     margin-left: 135px;
+  }
+  
+  .image img{
+    width: 200px;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+  }
+  .video video{
+     width: 300px;
+     height: 200px;
+     margin-left: 120px;
+     margin-top: 10px;
+  }
+  
+  
+  #bio{
+    width:85%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    /* display: grid;
+    flex-direction: column; */
+  
+  }
+  .image1{
+    margin-top: 700px;
+    margin-left: 40px;
+ 
+  }
+  .image1 img{
+     align-items: center;
+     justify-content: center;
+     width: 200px;
+     height: 400px;
+  }
+  .content{
+    text-align: center;
+    margin-left: 120px;
+  }
+  .biography{
+    font-size: 35px;
+     margin-left: -70px;
+  }
+  .rightnav{
+     margin-left: -50px;
+  }
+  #search{
+    text-align: center;
+    height: 8px;
+     margin-left: 80px;
+  
+  }
+  .btn{
+    height:12px;
+     margin-left: 100px;
+  }
+  
+  .par1{
+    text-align: center;
+     width: 350px;
+     margin-left: -450px;
+      }
+     .btn1 {
+         margin-left:-50px;   
+      }
+     
+   .film{
+      
+      width: 100%;
+      height: 100vh;
+       flex-direction:column;
+       display:grid;
+   }
+   .Movies{
+      
+      font-style: italic;
+      font-size: 40px;
+      padding:50px;
+      
+      margin-left: 50px;
+      
+   }
+   .poster{
+      display:grid;
+      flex-direction: column;
+      padding: 10px;
+      justify-content: space-between;
+    
+     text-align: center;
+    margin-left: 40px;
+      /* margin-top: 20px; */
+  
+   }
+   
+   .dhoni{
+     margin-left: 70px;
+      font-size: 20px;
+      font-style: italic;
+   }
+   .btn2{
+        padding: 15px;
+        background-color: rgb(172 13 46) ;
+        color: white;
+        font-weight: bold;
+        font-size: 15px;
+        border-color: rgb(172 13 46) ;
+        margin-top: 20px;
+        border-radius: 30px;
+   }
+  
+   .kai{
+    margin-left: 70px;
+     font-size: 20px;
+     font-style: italic;
+    
+   }
+   .btn3{
+      padding: 15px;
+      background-color: rgb(172 13 46) ;
+      color: white;
+      font-weight: bold;
+      font-size: 15px;
+      margin-top: 20px;
+      border-color: rgb(172 13 46) ;
+      border-radius: 30px;
+  }
+   .chi{
+    
+      margin-left: 50px;
+      font-size: 20px;
+      font-style: italic;
+   }
+   .chi img{
+      width: 300px;
+      height:250px;
+   }
+   .btn4{
+      padding: 15px;
+      background-color: rgb(172 13 46) ;
+      color: white;
+      font-weight: bold;
+      font-size: 15px;
+      margin-top: 20px;
+      margin-left: -3px;
+      border-color: rgb(172 13 46) ;
+      border-radius: 30px;
+  }
+   .pk{
+     margin-left: 70px;
+      font-size: 20px;
+      font-style: italic;
+      
+   }
+   .btn5{
+      padding: 15px;
+      background-color: rgb(172 13 46) ;
+      color: white;
+      font-weight: bold;
+      font-size: 15px;
+      margin-top: 20px;
+      border-color: rgb(172 13 46) ;
+      border-radius: 30px;
+  }
+   .foot{
+      font-size:25px;
+      font-style:italic;
+     margin-left: 300px;
+      color:black;
+     
+    
+     padding: 30px;
+     
+  }
+  .foot:hover{
+  color:#3da3a3 ;
+  }
+  .foot h1{
+    text-align: center;
+    margin-left: -280px;
+    padding-bottom: 20px;
+     position: absolute;
+     /* margin-bottom: 20px; */
+  }
+}
+
+@media only screen and (max-width: 350px) {
+    header{
+    width: 100%;
+     display: grid;
+     flex-direction: column;
+   
+    }
+  .name{
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+     
+  }
+   .tribute {
+     font-size: 30px;
+    margin-left: 15px;
+     margin-top: 50px;
+  }
+ 
+  .name .par{
+    font-size: 32px;
+     margin-left: 15px;
+  }
+  
+  header .head {
+    margin-left: 15px;
+    text-align: center;
+    justify-content: center;
+  }
+  .menu{
+     margin-left: -20px;
+  }
+  .menu .navlist{
+    margin-left: 200px;
+    min-height: 50px;
+  }
+  
+  .menu ul{
+     margin-top: 300px; 
+     min-height: 50px; 
+  }
+  ul li{
+  padding: 23px;
+  font-size: 20px;
+  }
+  ul li a{
+      min-height: 50px;
+      font-size: 27px;
+  }
+  .image{
+     align-items: center;
+     justify-content: center;
+     margin-top: 550px;
+     margin-left: 135px;
+  }
+  
+  .image img{
+    width: 200px;
+    height: 350px;
+    align-items: center;
+    justify-content: center;
+  }
+  .video video{
+     width: 250px;
+     height: 150px;
+     margin-left: 135px;
+     margin-top: 10px;
+  }
+  
+  
+  #bio{
+    width:85%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    /* display: grid;
+    flex-direction: column; */
+  
+  }
+  .image1{
+    margin-top: 700px;
+    margin-left: 50px;
+ 
+  }
+  .image1 img{
+     align-items: center;
+     justify-content: center;
+     width: 200px;
+     height: 400px;
+  }
+  .content{
+    text-align: center;
+    margin-left: 120px;
+  }
+  .biography{
+    font-size: 35px;
+     margin-left: -90px;
+  }
+  .rightnav{
+     margin-left: -50px;
+  }
+  #search{
+    text-align: center;
+    height: 8px;
+     margin-left: 80px;
+  
+  }
+  .btn{
+    height:12px;
+     margin-left: 100px;
+  }
+  
+  .par1{
+    text-align: center;
+     width: 350px;
+     margin-left: -470px;
+      }
+     .btn1 {
+         margin-left:50px;   
+      }
+     
+   .film{
+      
+      width: 100%;
+      height: 100vh;
+       flex-direction:column;
+       display:grid;
+   }
+   .Movies{
+      
+      font-style: italic;
+      font-size: 40px;
+      padding:50px;
+      
+      margin-left: 70px;
+      
+   }
+   .poster{
+      display:grid;
+      flex-direction: column;
+      padding: 10px;
+      justify-content: space-between;
+    
+     text-align: center;
+    margin-left: 10px;
+      /* margin-top: 20px; */
+  
+   }
+   
+   .dhoni{
+     margin-left: 70px;
+      font-size: 20px;
+      font-style: italic;
+   }
+   .btn2{
+        padding: 15px;
+        background-color: rgb(172 13 46) ;
+        color: white;
+        font-weight: bold;
+        font-size: 15px;
+        border-color: rgb(172 13 46) ;
+        margin-top: 20px;
+        border-radius: 30px;
+   }
+  
+   .kai{
+    margin-left: 70px;
+     font-size: 20px;
+     font-style: italic;
+    
+   }
+   .btn3{
+      padding: 15px;
+      background-color: rgb(172 13 46) ;
+      color: white;
+      font-weight: bold;
+      font-size: 15px;
+      margin-top: 20px;
+      border-color: rgb(172 13 46) ;
+      border-radius: 30px;
+  }
+   .chi{
+    
+      margin-left: 50px;
+      font-size: 20px;
+      font-style: italic;
+   }
+   .chi img{
+      width: 300px;
+      height:250px;
+   }
+   .btn4{
+      padding: 15px;
+      background-color: rgb(172 13 46) ;
+      color: white;
+      font-weight: bold;
+      font-size: 15px;
+      margin-top: 20px;
+      margin-left: -3px;
+      border-color: rgb(172 13 46) ;
+      border-radius: 30px;
+  }
+   .pk{
+     margin-left: 70px;
+      font-size: 20px;
+      font-style: italic;
+      
+   }
+   .btn5{
+      padding: 15px;
+      background-color: rgb(172 13 46) ;
+      color: white;
+      font-weight: bold;
+      font-size: 15px;
+      margin-top: 20px;
+      border-color: rgb(172 13 46) ;
+      border-radius: 30px;
+  }
+   .foot{
+      font-size:20px;
+      font-style:italic;
+     margin-left: 300px;
+      color:black;
+     padding: 30px;
+    
+  }
+  .foot:hover{
+  color:#3da3a3 ;
+  }
+  .foot h1{
+    text-align: center;
+    margin-left: -310px;
+    padding-bottom: 20px;
+     position: absolute;
+     margin-bottom: 20px;
+  }
+}
